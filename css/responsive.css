@@ -1,0 +1,286 @@
+@media (max-width: 1199px){
+    .footer_content i {
+        margin-right: 6px;
+        padding: 13px;
+        font-size: 14px;
+        border-radius: 50%;
+        color: #ffffff67;
+        border: 1px solid;
+    }
+}
+@media (max-width: 1024px){
+
+    .bit_coin{
+        display: block;
+    }
+    .bit_coin{
+        display: inherit;
+    }
+    .bit_coin_img img {
+        width: 50%;
+        height: 50%;
+        margin: auto;
+        padding: 145px 0;
+    }
+   
+   
+    
+}
+
+@media (max-width: 768px){ 
+    .footer_content i {
+        margin-right: 6px;
+        padding: 8px;
+        font-size: 11px;
+    }
+    .icon_contentf p {
+        font-size: 13px;
+        color: #ffffff67;
+    }
+    .top_header {
+        display: none;
+    }
+    .card_10 p {
+        font-size: 11px;
+        padding: 15px 5px;
+    }
+    .navbar {
+        text-align: center;
+    }
+    .navbar .nav-item .nav-link{
+        font-size: 11px;
+        margin-left: 0;
+    }
+   
+    .navbar .navbar-nav .nav-link:hover::before{
+        width: 0;
+    }
+    .navbar .navbar-nav .nav-link:hover::after{
+        width: 0;
+    }
+    .img-fluid {
+        max-width: 80%;
+    }
+    .banner_row h1 {
+        font-size: 30px;
+       padding-bottom: 30px;
+    }
+    .first_millino {
+        padding-bottom: 30px;
+    }
+
+    .first_millino h3 {
+        font-size: 17px;
+        line-height: 23px;
+    }
+    .first_millino p{
+        font-size: 16px;
+    }
+    .about_content p {
+        font-size: 12px;
+    }
+    .banner_row h1 {
+        font-size: 22px;
+    }
+    
+    .banner_row .btn_contac{
+        margin: 15px;
+        padding: 5px 25px !important;
+    }
+    .bit_coin_img{
+       padding: 80px 0;
+     }
+     .bit_coin {
+        display: inherit;
+        height: 200px;
+        width: 300px;
+    }
+    .bit_coin_icon {
+        display: none;
+    }
+    .bit_coin_icon_2 {
+        display: none;
+    }
+    .bit_coin_icon_3 {
+        display: none;
+    }
+    .bit_coin_icon_4 {
+        display: none;
+    }
+        .simple_img{
+            display: inherit;
+    }
+    .bit_coin_icon_5 {
+        display: none;
+    }
+    .bit_coin_icon_6 {
+        display: none;
+    }
+    .bit_coin{
+        display: none;
+    }
+    .footer_content4 h4 {
+        padding-bottom: 23px;
+        padding-top: 10px;
+        color: #efefef;
+        font-size: 20px;
+        text-transform: uppercase;
+    }
+    .footer_content3 h4 {
+        padding-bottom: 6px;
+        padding-top: 10px;
+        color: #efefef;
+        font-size: 20px;
+        text-transform: uppercase;
+    }
+    .footer_content2 h4 {
+        padding-bottom: 35px;
+        padding-top: 17px;
+        color: #efefef;
+        font-size: 20px;
+        text-transform: uppercase;
+    }
+    .card_1 h3 {
+        font-size: 19px;
+        padding: 30px 0;
+    }
+    .service h1 {
+        font-size: 24px;
+    }
+    h3{
+        font-size: 20px;
+    }
+    .service p {
+        padding: 15px 0px;
+        font-size: 14px;
+    }
+    .about_content h2 {
+        font-size: 18px;
+        padding: 20px 0;
+    }
+    .about_content p {
+        font-size: 12px;
+        font-weight: 600;
+    }
+    .card_10 h5 {
+        font-size: 14px;
+        padding: 10px;
+        font-weight: 400;
+    }
+    .card_10 p {
+        font-size: 11px;
+        padding: 15px 5px;
+    }
+    .service_2_content {
+        padding: 16px 0;
+    }
+}
+
+
+
+@media (max-width: 575px) and (min-width: 0){ 
+    .top_header {
+        display: none;
+    }
+    .container{
+        padding: 0 30px;
+    }
+    .banner_row h1 {
+        font-size: 26px;
+    }
+    .banner_row {
+        
+        padding: 100px 0;
+    }
+    .content_mil{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .first_millino h3 {
+        font-size: 11px;
+        padding: 0 19px;
+    }
+    .menu_btn {
+        display: block;
+    }
+    .card {
+        margin: 10px 0;
+    }
+    
+    .bit_coin {
+        display: inherit;
+        height: 200px;
+        width: 300px;
+    }
+    .bit_coin_img img {
+        width: 50%;
+        height: 50%;
+        margin: auto;
+        padding: 20px 0;
+    }
+    .service h1 {
+        font-size: 22px;
+    }
+    .service_2_content img {
+        width: 40%;
+    }
+    .last_footer_content2 ul li {
+        font-size: 9px;
+    }
+   
+}
+
+@media (max-width: 475px){
+    .first_millino p{
+        font-size: 11px;
+    }
+    .first_millino h3 {
+        font-size: 11px;
+    }
+    .banner_row h1 {
+        font-size: 19px;
+    }
+    
+    .banner_row .btn_contac{
+        margin: 15px;
+        padding: 5px 25px !important;
+    }
+    .bit_coin{
+        display: inherit;
+    }
+  
+}
+@media (max-width: 425px){
+    .first_millino p{
+        font-size: 11px;
+    }
+    .first_millino h3 {
+        font-size: 11px;
+    }
+    .banner_row h1 {
+        font-size: 19px;
+    }
+    
+    .banner_row .btn_contac{
+        margin: 15px;
+        padding: 5px 25px !important;
+    }
+    .bit_coin{
+        display: inherit;
+    }
+    .bit_coin_img img {
+     text-align: center;
+
+    }
+
+    .last_footer_content2 ul {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        text-transform: uppercase;
+        padding: 20px 0;
+        color: #7f7f7f;
+        display: none;
+    }
+}
